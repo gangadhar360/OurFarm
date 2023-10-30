@@ -3,7 +3,7 @@ A Flask-based web application for farmers to find out the crops which can grow p
 ### This is our submission for SmartBridge
 
 # Demonstration Link
- <a href="https://drive.google.com/file/d/1pEcW7EqaGsOI9v5hAN1b_YZjqqj5Px9X/view?usp=sharing">here</a>
+ <p> To know about the working of the project. Here is the demo. Click </p><a href="https://drive.google.com/file/d/1pEcW7EqaGsOI9v5hAN1b_YZjqqj5Px9X/view?usp=sharing">here</a>
 
 # Project Doc Link
- <a href="https://drive.google.com/file/d/1sRkiw-OeEd1rTZHVrJ8Wsibsew7GDXc6/view?usp=sharing">Project Report</a>
+ <p>To know more about the project. Go through this </p> <a href="https://drive.google.com/file/d/1sRkiw-OeEd1rTZHVrJ8Wsibsew7GDXc6/view?usp=sharing">Project Report</a>
