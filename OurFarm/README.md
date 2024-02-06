@@ -1,4 +1,4 @@
-# OurFarm
+# Crop yield prediction using Machine Learning
 A Flask-based web application for farmers to find out the crops which can grow perfectly on their fields.
 ### This is our submission for SmartBridge
 
